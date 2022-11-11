@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	11-Nov-2022
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:KA:Bengaluru:12.96:77.59:v4
+.patreon.com	TRUE	/	FALSE	1999999999	__cf_bm	MqDjHJwyUx4.qqxUa4OfQ9hpqqlD0GdCh17vci8kyUM-1668153682-0-AUMbOITqyY4viWVC6UNX4si6184f/5dlH/jYGCx1cSgvnW4Pg6EM/OoD6b1VGXUunvZ/OuCFR73pywRZU4QEMxVtqXDrSYaU8T+JOhkP2rV8
+c6.patreon.com	TRUE	/	FALSE	1999999999	SameSite	None
+
